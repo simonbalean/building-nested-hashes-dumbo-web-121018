@@ -18,3 +18,6 @@ def third_challenge
 
   
 end
+
+
+# why does age have to be a string?
